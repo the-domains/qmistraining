@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Training]]></title>
+        <description><![CDATA[Training]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 09 Aug 2016 00:25:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ISO14001:2015]]></title>
+            <description><![CDATA[<article><h1>ISO14001:2015</h1><p>The new ISO 14001 2015 standard asks you to establish an emergency preparedness and response procedure in section 8.2, and that's the only one.</p></article>]]></description>
+            <link>undefinediso140012015/index.html</link>
+            <guid isPermaLink="false">a911ef24-b1b5-4b51-9351-e4db8ed257cc</guid>
+            <pubDate>Tue, 09 Aug 2016 00:25:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
