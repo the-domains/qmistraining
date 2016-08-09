@@ -5,11 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-09T00:34:02.850Z'
-dateModified: '2016-08-09T00:32:17.005Z'
+datePublished: '2016-08-09T00:43:28.228Z'
+dateModified: '2016-08-09T00:43:27.335Z'
 title: Plan Do Check Act - the same but reinvented..!
 author: []
 via: {}
+sourcePath: _posts/2016-08-09-plan-do-check-act-the-same-but-reinvented.md
 authors: []
 publisher:
   name: null
@@ -17,7 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-08-09-plan-do-check-act-the-same-but-reinvented.md
 url: plan-do-check-act-the-same-but-reinvented/index.html
 _type: Article
 
