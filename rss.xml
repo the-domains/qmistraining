@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ISO Training]]></title>
+        <description><![CDATA[ISO Training]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 09 Aug 2016 00:34:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Documented Information]]></title>
+            <description><![CDATA[<article><h1>Documented Information</h1><p>There is no longer a requirement to maintain a systems manual or documented procedures..!</p></article>]]></description>
+            <link>undefineddocumented-information/index.html</link>
+            <guid isPermaLink="false">e9202203-f473-4830-9bf1-b4bd7410a7be</guid>
+            <pubDate>Tue, 09 Aug 2016 00:34:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
