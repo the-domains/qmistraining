@@ -1,29 +1,41 @@
-name: Training
-favicon: null
-layout_spectrum: 0.47048
-typography_spectrum: 0.3976
 title: ISO Training
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.4582388126291335
+  brandStrength: 0.7801197033841163
+  rhythmicContrast: 0.09334911638870835
   brandColors:
     - '#A690A4'
     - '#B68F9D'
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.7801197033841163
-  lightness: 0.31167499790899456
-  saturation: 0.45823881262913346
-  rhythmicContrast: 0.09334911638870835
-purpose: []
+  lightness: 0.3116749979089946
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Training
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.3976
+layout_spectrum: 0.9414608
