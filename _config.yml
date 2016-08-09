@@ -2,6 +2,7 @@ name: Training
 favicon: null
 layout_spectrum: 0.47048
 typography_spectrum: 0.3976
+title: ISO Training
 cta:
   domain: null
   bucket: null
