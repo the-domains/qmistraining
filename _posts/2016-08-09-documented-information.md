@@ -1,23 +1,23 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: >-
   There is no longer a requirement to maintain a systems manual or documented
   procedures..!
-datePublished: '2016-08-09T00:34:02.849Z'
-dateModified: '2016-08-09T00:18:38.140Z'
+datePublished: '2016-08-11T05:39:53.117Z'
+dateModified: '2016-08-11T05:34:00.541Z'
 title: Documented Information
 author: []
 via: {}
+sourcePath: _posts/2016-08-09-documented-information.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-08-09-documented-information.md
 url: documented-information/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Documented Information
