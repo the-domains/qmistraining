@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 1. Scope
-datePublished: '2016-08-11T23:16:31.450Z'
-dateModified: '2016-08-11T23:15:58.631Z'
+datePublished: '2016-08-11T23:33:49.154Z'
+dateModified: '2016-08-11T23:16:37.175Z'
 title: ''
 author: []
 via: {}
@@ -19,8 +19,6 @@ _type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0741156-213c-48e4-bd50-b43c3d5e2eb4.png)
-
-# 
 
 The new ISO9001 & 14001 now have the same 10 Clauses
 
