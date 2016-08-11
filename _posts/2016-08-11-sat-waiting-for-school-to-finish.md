@@ -5,15 +5,15 @@ inNav: true
 inLanguage: null
 keywords: []
 description: So this will appear on the new page
-datePublished: '2016-08-11T23:24:04.928Z'
-dateModified: '2016-08-11T23:19:31.229Z'
+datePublished: '2016-08-11T23:40:19.561Z'
+dateModified: '2016-08-11T23:35:12.295Z'
 title: Sat waiting for school to finish...
 author: []
 via: {}
 sourcePath: _posts/2016-08-11-sat-waiting-for-school-to-finish.md
 authors: []
 publisher: {}
-starred: false
+starred: true
 url: sat-waiting-for-school-to-finish/index.html
 _type: WebPage
 
