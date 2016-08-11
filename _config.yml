@@ -1,5 +1,8 @@
+name: ISO Training
+favicon: null
+layout_spectrum: 0.123946
+typography_spectrum: 0.21419
 title: ISO Training
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5910624
-  brandStrength: 0.8010118
-  lightness: 0.6281619
   brandColors:
     - '#FFFFFF'
     - '#ACACAC'
     - '#005095'
     - '#555756'
     - '#00264A'
+  brandStrength: 0.8010118
+  lightness: 0.6281619
+  saturation: 0.5910624
   rhythmicContrast: 0.4974705
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-cta:
-  bucket: null
-  version: null
-  domain: null
-name: ISO Training
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.4544688
-layout_spectrum: 0.123946
+purpose: []
