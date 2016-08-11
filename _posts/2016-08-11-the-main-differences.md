@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 1. Scope
-datePublished: '2016-08-11T23:33:49.154Z'
-dateModified: '2016-08-11T23:16:37.175Z'
+datePublished: '2016-08-11T23:42:19.970Z'
+dateModified: '2016-08-11T23:34:20.165Z'
 title: ''
 author: []
 via: {}
