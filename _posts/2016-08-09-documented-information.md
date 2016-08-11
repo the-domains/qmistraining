@@ -7,8 +7,8 @@ keywords: []
 description: >-
   There is no longer a requirement to maintain a systems manual or documented
   procedures..!
-datePublished: '2016-08-11T05:39:53.117Z'
-dateModified: '2016-08-11T05:34:00.541Z'
+datePublished: '2016-08-11T05:40:18.906Z'
+dateModified: '2016-08-11T05:40:01.087Z'
 title: Documented Information
 author: []
 via: {}
