@@ -5,22 +5,24 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 1. Scope
-datePublished: '2016-08-11T05:38:59.561Z'
-dateModified: '2016-08-11T05:36:31.491Z'
-title: The main differences
+datePublished: '2016-08-11T23:16:31.450Z'
+dateModified: '2016-08-11T23:15:58.631Z'
+title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-08-11-the-main-differences.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-08-11-the-main-differences.md
 url: the-main-differences/index.html
 _type: WebPage
 
 ---
-# [The main differences][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0741156-213c-48e4-bd50-b43c3d5e2eb4.png)
 
-## The new ISO9001 & 14001 now have the same 10 Clauses
+# 
+
+The new ISO9001 & 14001 now have the same 10 Clauses
 
 _1\. Scope_
 
@@ -41,5 +43,3 @@ _8\. Operation_
 _9\. Performance evaluation_
 
 _10\. Improvement_
-
-[0]: null
