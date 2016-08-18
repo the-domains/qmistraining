@@ -1,6 +1,6 @@
 name: ISO Training
 favicon: null
-layout_spectrum: 0.74647
+layout_spectrum: 0.90471
 typography_spectrum: 0.38305
 title: ISO Training
 collections:
@@ -34,7 +34,7 @@ color:
     - '#005095'
     - '#555756'
     - '#00264A'
-  brandStrength: 0.5
+  brandStrength: 0.8125
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
