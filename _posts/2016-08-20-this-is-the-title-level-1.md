@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-20T04:50:18.781Z'
+datePublished: '2016-08-20T04:50:56.645Z'
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-20T04:49:36.082Z'
+dateModified: '2016-08-20T04:50:56.471Z'
 title: This is the title Level 1
 publisher: {}
 description: This is plain
-starred: false
 sourcePath: _posts/2016-08-20-this-is-the-title-level-1.md
+starred: false
 url: this-is-the-title-level-1/index.html
 _type: Blurb
 
