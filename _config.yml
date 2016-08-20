@@ -31,6 +31,9 @@ navigation:
   - name: This is the title Level 1
     id: 80140b88-fc2f-45f3-929c-52ff34a5f27f
     type: content
+  - name: Sat waiting for school to finish...
+    id: 82b1b247-9e97-48e2-abcb-7437b4e8abd8
+    type: content
 favicon: null
 collections:
   - index:
