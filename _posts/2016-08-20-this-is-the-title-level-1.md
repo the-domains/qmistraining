@@ -1,16 +1,17 @@
 ---
-datePublished: '2016-08-20T05:01:13.937Z'
+datePublished: '2016-08-20T05:08:20.973Z'
+sourcePath: _posts/2016-08-20-this-is-the-title-level-1.md
+inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-20T05:01:13.135Z'
+dateModified: '2016-08-20T05:08:20.095Z'
 title: This is the title Level 1
 publisher: {}
 description: This is plain
-sourcePath: _posts/2016-08-20-this-is-the-title-level-1.md
 starred: false
 url: this-is-the-title-level-1/index.html
-_type: Blurb
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/22fbb5e7-4894-469e-9103-612fde311ec8.jpg)
