@@ -1,13 +1,15 @@
 ---
-datePublished: '2016-08-20T05:10:55.821Z'
+datePublished: '2016-08-20T05:13:07.089Z'
 sourcePath: _posts/2016-08-11-sat-waiting-for-school-to-finish.md
-inFeed: true
+inFeed: false
 authors: []
 hasPage: true
 keywords: []
-author: []
+author:
+  - name: ''
+    url: ''
 via: {}
-dateModified: '2016-08-20T05:10:54.899Z'
+dateModified: '2016-08-20T05:13:06.235Z'
 title: Sat waiting for school to finish...
 publisher: {}
 description: So this will appear on the new page
@@ -15,7 +17,7 @@ inLanguage: null
 inNav: true
 starred: false
 url: sat-waiting-for-school-to-finish/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Sat waiting for school to finish...
