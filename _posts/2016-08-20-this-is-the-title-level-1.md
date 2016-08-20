@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-08-20T04:50:56.645Z'
-hasPage: true
+datePublished: '2016-08-20T04:52:35.026Z'
+sourcePath: _posts/2016-08-20-this-is-the-title-level-1.md
+inFeed: true
+hasPage: false
 author: []
 via: {}
-dateModified: '2016-08-20T04:50:56.471Z'
+dateModified: '2016-08-20T04:52:34.115Z'
 title: This is the title Level 1
 publisher: {}
 description: This is plain
-sourcePath: _posts/2016-08-20-this-is-the-title-level-1.md
 starred: false
-url: this-is-the-title-level-1/index.html
 _type: Blurb
 
 ---
