@@ -1,24 +1,24 @@
 ---
-inFeed: false
+datePublished: '2016-08-20T05:10:55.821Z'
+sourcePath: _posts/2016-08-11-sat-waiting-for-school-to-finish.md
+inFeed: true
+authors: []
 hasPage: true
-inNav: true
-inLanguage: null
 keywords: []
-description: So this will appear on the new page
-datePublished: '2016-08-20T05:01:32.882Z'
-dateModified: '2016-08-20T05:01:31.881Z'
-title: Sat waiting for school to finish...
 author: []
 via: {}
-sourcePath: _posts/2016-08-11-sat-waiting-for-school-to-finish.md
-authors: []
+dateModified: '2016-08-20T05:10:54.899Z'
+title: Sat waiting for school to finish...
 publisher: {}
+description: So this will appear on the new page
+inLanguage: null
+inNav: true
 starred: false
 url: sat-waiting-for-school-to-finish/index.html
-_type: WebPage
+_type: Article
 
 ---
 # Sat waiting for school to finish...
 
 So this will appear on the new page
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/316d956f5f0ca9e9cae95950cc05c95a/croprotate.jpg?cropheight=4032&cropwidth=3024&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F886dd1df-748e-4fcb-bbf1-aa41c7a6e175.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/467ddb8d467c66e6ca55503bc3ddbfa4910ea718.jpg)
