@@ -42,4 +42,5 @@ collections:
     permalink:
       path: '/:title/'
 title: Auditor Training
+description: another tag line...?
 purpose: []
