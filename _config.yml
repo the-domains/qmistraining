@@ -28,7 +28,7 @@ navigation:
   - name: Pictures
     id: 0b70a4e2-271a-47b5-8896-93629688d5f0
     type: content
-  - name: This is the title Level 1
+  - name: Level 1
     id: 80140b88-fc2f-45f3-929c-52ff34a5f27f
     type: content
   - name: Sat waiting for school to finish...
